@@ -1,3 +1,3 @@
-# tris
-tris in c#
+# TRIS IN C#
+
 ENJOY
